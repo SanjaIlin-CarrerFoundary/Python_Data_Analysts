@@ -25,7 +25,7 @@ The dataset comprises of information on the following parameters:
 * products
 * departments.
   
-The full details of the data are available here.
+The full details of the data are available [here](s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
 ## Tools
 For this project, the following python libraries were used:
 + pandas - for data analysis
