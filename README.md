@@ -28,6 +28,12 @@ The dataset comprises of information on the following parameters:
   
 The full details of the data are available here.
 ## Tools
+For this project, the following python libraries were used:
++ pandas - for data analysis
++ NumPy - mathematical library that supports a variety of operations, a dependency of pandas
++ seaborn - for visualization
++ matplotlib - a plotting library and a dependency for seaborn
++ scipy - a fundamental Python library necessary for visualizations.
 ## Executing the code
 ## Resources
 
