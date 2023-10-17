@@ -19,12 +19,13 @@ and sales teams want to know which departments have the highest frequency of
 product orders.
 * The marketing and sales teams are particularly interested in the different types of
 customers in their system and how their ordering behaviors differ.
+
 ## Data
 The dataset comprises of information on the following parameters:
-+ orders
-+ products
-+ departments
-
+* orders
+* products
+* departments.
+## 
 The full details of the data are available here.
 ## Tools
 ## Executing the code
