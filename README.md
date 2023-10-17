@@ -35,7 +35,7 @@ For this project, the following python libraries were used:
 + matplotlib - a plotting library and a dependency for seaborn
 + scipy - a fundamental Python library necessary for visualizations.
   
-## Executing the code
+The code is available as jupyter notebooks, under /scripts/. 
 ## Resources
 
 
