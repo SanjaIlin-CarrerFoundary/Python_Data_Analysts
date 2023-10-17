@@ -1,4 +1,5 @@
 # Instacart Grocery Basket Analysis
+This is a data analysis project that focuses on the online grocery store Instacart and utilizes Python for the analysis.
 ## Objective
 Instacart is an online grocery store that operates through an app. Instacart. It already has very good sales, but they
 want to uncover more information about their sales patterns. The objective of this project is to 
