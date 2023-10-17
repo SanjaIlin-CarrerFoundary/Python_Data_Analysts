@@ -24,6 +24,7 @@ The dataset comprises of information on the following parameters:
 + orders
 + products
 + departments
+
 The full details of the data are available here.
 ## Tools
 ## Executing the code
