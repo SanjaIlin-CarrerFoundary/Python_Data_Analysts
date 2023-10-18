@@ -35,6 +35,14 @@ For this project, the following python libraries were used:
 + scipy - a fundamental Python library necessary for visualizations.
   
 The code is available as jupyter notebooks, under /scripts/. 
-## Resources
+## Key Competencies
+1. **Data Wrangling:** This involves tasks like dropping unnecessary columns, renaming columns for clarity, and adjusting variable data types. It ensures that the data is well-organized and suitable for analysis.
+2. **Data Consistency Checks:** Identifying and rectifying mixed or incorrect data types, dealing with missing values and duplicates to maintain data quality and integrity.
+3. **Merging Data:** Selecting and preparing data for merging, confirming the results of the merge using a merge flag, and exporting the data in Pickle format.
+4. **Exploratory Analysis:** This phase involves exploring basic descriptive statistics for each variable, such as the range, quartiles, mean, and standard deviation.
+5. **Deriving New Variables:** Creating new variables using if statements for-loops and the loc() function.
+6. **Grouping Data & Aggregating Variables**
+7. **Visualizing Data:** Utilizing data visualization libraries like Matplotlib and Seaborn to create various types of charts, including histograms, line charts, pie charts, and bar charts.
+8. **Reporting Results:** Summarizing the findings in an Excel file. This report not only explains answers to questions from sales and marketing but also documents the data's journey, including population flow, consistency checks, data wrangling steps, and column derivations. It serves as a comprehensive documentation of the entire analysis process. 
 
-
+Overall, this project demonstrates proficiency in data analysis, from data preparation to exploration, visualization, and reporting, which are crucial skills for making data-driven decisions and extracting valuable insights from datasets.
