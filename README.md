@@ -34,7 +34,7 @@ For this project, the following python libraries were used:
 + matplotlib - a plotting library and a dependency for seaborn
 + scipy - a fundamental Python library necessary for visualizations.
   
-The code is available as jupyter notebooks, under [/scripts/](https://github.com/SanjaIlinSpirovska/INSTACART-GROCERY_Python/tree/main/03%20Scripts)
+The code is available as jupyter notebooks, under [/scripts/](https://github.com/SanjaIlinSpirovska/INSTACART-GROCERY_Python/tree/main/03%20Scripts).
 ## Key Competencies
 1. **Data Wrangling:** This involves tasks like dropping unnecessary columns, renaming columns for clarity, and adjusting variable data types. It ensures that the data is well-organized and suitable for analysis.
 2. **Data Consistency Checks:** Identifying and rectifying mixed or incorrect data types, dealing with missing values and duplicates to maintain data quality and integrity.
