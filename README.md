@@ -25,7 +25,7 @@ The dataset comprises of information on the following parameters:
 * products
 * departments.
   
-The full details of the data are available [here](https://github.com/SanjaIlinSpirovska/INSTACART-GROCERY_Python/tree/main/02%20Data/Original%20Data)
+The full details of the data are available [/data/.](https://github.com/SanjaIlinSpirovska/INSTACART-GROCERY_Python/tree/main/02%20Data/Original%20Data)
 ## Tools
 For this project, the following python libraries were used:
 + pandas - for data analysis
