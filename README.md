@@ -23,6 +23,7 @@ customers in their system and how their ordering behaviors differ.
 The dataset comprises of information on the following parameters:
 * orders
 * products
+* customers
 * departments.
   
 The full details of the data are available under [/data/.](https://github.com/SanjaIlinSpirovska/INSTACART-GROCERY_Python/tree/main/02%20Data/Original%20Data)
